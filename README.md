@@ -4,8 +4,12 @@
 - 📫 My linkedin profile: www.linkedin.com/in/nihir-shah-19886a200
 - ⚡ Here's a Haiku for you:
       <h3 align="center">
-  Two cups of coffee \n
-  wake me enough to ask \n
+  Two cups of coffee 
+      </h3>
+      <h3 align="center">
+  wake me enough to ask 
+      </h3>
+  <h3 align="center">
   "Did I have coffee?" 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
